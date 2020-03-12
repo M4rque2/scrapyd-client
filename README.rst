@@ -1,3 +1,7 @@
+Forked from the original scrapy's scrapyd-client in 2020/03/12
+Since the original one is incomplete and unfinished
+I will do it my way
+
 ==============
 Scrapyd-client
 ==============
